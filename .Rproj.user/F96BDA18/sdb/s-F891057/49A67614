@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1418572703321.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49A67614",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "weekday_fixed_steps_per_time_slot",
+        "contentUrl" : "content?title=weekday_fixed_steps_per_time_slot&file=e2ab0496f9fe43beaaef5886891e5f4b.htm",
+        "displayedObservations" : "288",
+        "displayedVariables" : 2,
+        "totalObservations" : "288",
+        "variables" : "2"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

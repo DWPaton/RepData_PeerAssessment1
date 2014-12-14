@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1418569373640.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6220848",
+    "lastKnownWriteTime" : 1768302192,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "dftemp",
+        "contentUrl" : "content?title=dftemp&file=59ce2ef9851840d89ba83aebd6e3b4e7.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 1,
+        "totalObservations" : "17568",
+        "variables" : "1"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
